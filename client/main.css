@@ -1,3 +1,14 @@
-.container-graph {
- background-color: #1ABC9C;
+.graph {
+ background-color:#5D6D7E;
+ height:300px;
+ margin:15px;
+ margin-bottom:30px;
+ border-radius:10px;
+}
+
+.alert {
+ background-color:#48C9B0;
+ height:650px;
+ margin:15px;
+ border-radius:10px;
 }

@@ -16,3 +16,7 @@
 .table {
   color: #ffffff;
 }
+
+td {
+  font-size: 15px;
+}
